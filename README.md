@@ -97,12 +97,33 @@ https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VI
   <img src="https://github.com/user-attachments/assets/4c759132-3f87-42f5-bd60-4a7e41f1adcb" alt="Imagen 7" style="width: 33%; height: 300px; object-fit: cover; border-radius: 8px;"> 
 </div>
 
-
-
-## LINK CON CARPETA CON MAS FOTOS Y VIDEOS
-https://github.com/ABOK451/Personaje-Navide-o/tree/main/FOTOS_ELABORACION
-https://github.com/ABOK451/Personaje-Navide-o/tree/main/VIDEOS_ELABORACION
 ## LINK CODIGO 
 https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gustavo_GDS0641/tree/e06de89bc9803ec0c3f5a43210e0ec5b72716cc7/SnowMan_C%C3%B3digo_Paython
 
-## NOTA PARA VER LOS VIDEOS ES NECESARIO DESCARGAR
+
+# LINK VIDEOS Y EJERCICIOS REALIZADOS EN CLASE
+
+
+# Capturas de pantalla de los examenes de NetaCad:
+
+## Modulo 1
+<img src="https://github.com/user-attachments/assets/ba8aa2d3-2756-4f22-aaea-e63e0f360f66"/>
+
+## Modulo 2
+<img src="https://github.com/user-attachments/assets/948b88e0-c5d8-406b-83ab-c363abac386c"/>
+
+## Modulo 3
+<img src="https://github.com/user-attachments/assets/f23021da-57fd-41ee-8bea-4cb9bcebc0b0"/>
+
+## Modulo 4
+<img src="https://github.com/user-attachments/assets/9e865d9c-9a2d-40da-b252-d354e13fc1c9"/>
+
+## Modulo 5
+<img src="https://github.com/user-attachments/assets/86013590-8c15-45c6-8a05-3bf0fa81fa9f"/>
+
+## Modulo 6
+<img src="https://github.com/user-attachments/assets/16ad81c3-e031-41c8-b23f-ca694f7b2638"/>
+
+
+## Examen final
+<img src="https://github.com/user-attachments/assets/d77873d0-9999-4cc7-be51-14f7d784c90d"/>
