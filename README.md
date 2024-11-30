@@ -51,15 +51,16 @@
 |Nombre|Version|Tipo Software|
 |-|-|-|
 |Thonny|4.2.1|Software Libre|
-|SSD1602|1.8.1|Software Libre|
-|PlatformIO|6.1.11|Software Libre/IDE|
-|Visual Studio Code|1.82|Software Libre/IDE|
-|SQLite|3.43.1|Software Libre|
-|ArduinoIDE|2.2.1|Software libre|
+|Node Red|4.0.5|Software Libre|
 |dcmotor||Libreria|
 |stepper||Libreria|
 |ssd1306||Libreria|
 |hcsr04||Libreria|
+|max7219||Libreria|
+|navidad_buzzer||Libreria|
+|machine|Integrada|Libreria estándar|
+|time|Integrada|Libreria estándar|
+
 
 
 ## Prototipo en dibujo
@@ -68,7 +69,7 @@
 
 
 ## Comunicacion
-La comunicación del usuario con el prototipo se realizará mediante una conexión inalámbrica a través del protocolo Wi-Fi. El ESP32 actuará como un servidor Wi-Fi, permitiendo que el usuario interactúe con el campesino mediante una interfaz web. Los comandos enviados desde la interfaz web controlarán diversas funciones del personaje navideño, como encender luces, activar el movimiento del brazo o cambiar su estado. La interfaz web proporcionará una experiencia intuitiva para que el usuario pueda controlar y disfrutar del campesino con cesto de uvas.
+La comunicación del usuario con el prototipo se realizará mediante una conexión inalámbrica a través del protocolo Wi-Fi. El ESP32 actuará como un servidor Wi-Fi, permitiendo que el usuario interactúe con el muñeco de nieve mediante una interfaz web. Los comandos enviados desde la interfaz web controlarán diversas funciones del personaje navideño, como cambiar la forma en que se muestran las luces, realizar un saludo, mostrar un mensaje, cambiar la tonada navideña y mover la cabeza del muñeco.
 
 ## Arquitectura 
 ![](https://github.com/ABOK451/Personaje-Navide-o/blob/main/Imagen-de-Whats-App-2023-11-09-a-las-21-49-19-d4b6c808.jpg)
@@ -76,8 +77,7 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 
 
 
-
-## Base de datos
+## Flujo en node-red
 ![Base de Datos](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_194854915.png)
 
 ## VIDEO EXPLICATIVO DEL FUNCIONAMIENTO 
