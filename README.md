@@ -5,35 +5,48 @@
 
 ## Nombre del personaje 
 
--Campesino 
+!!  SNOW MAN  ¡¡
 
 ##  Nombre Integrantes Equipo
 
 |Nombre | Apellido Paterno | Apellido Materno |
 |-|-|-|
-|Fredy Alonso|Esparza|Campuzano|
-|Alan Omar|Venegas|Cadena|
+|Brandon Gustavo|Mendoza|Amaro|
+|Mirza Natzielly|Morales|Lezama|
 
-## Materiales a utilizar
+## Materiales a utilizar (Componentes tecnicos)
 
 
 |Nom Componente | Descripcion | Cantidad| Precio|
 |-|-|-|-|
-|ESP32|Microcontrolador con 30 pines con comunicacion WIFI y Bluetooth||$140.00|
+|ESP32|Microcontrolador con 30 pines con comunicacion WIFI y Bluetooth|1|$120.00|
 |Cable dupont|Cables para conexion de prototipos de pruebas|50|$60.00|
-|Sensor Pir Hc-sr501|Detector De Movimiento|2|$55.00|
-|Led|Se utiliza un LED como indicador visual.|10|$70.00|
-|Placa Arduino|Placa Arduino grande para la conexión de placas y sensores|2|$360.00|
-|Soldador|kit de soldador para los motores y las piezas del muñeco|1| $90.00|
-|WINGONEER 25 Valores 16V 25V 50V 1uF a 2200uF | Condensadores electrolíticos | 10 | $40.00|
-|Motor a Pasos|Motor a pasos para movimiento preciso|1|$150.00|
-|Alambre|Alambre para Movimientos|5|$20.00|
-|Carton|Estructura Muñeco|7|$15.00|
-|Pegamento|Adhesivo para ensamblar componentes|2|$22.00|
-|Papel|Para Decoracion|10|$10.00|
-| Kit Resistencias, Conjunto de Resistores fijos de película metálica, Resistencias de orificio|  (Stand Wire Gauge), perfecto para paneles en proyectos electrónicos de Arduino| 25 | $50.00|
-|Otros Materiales|Materiales para tema de decoracion|5|$50.00|
+|Sensor Ultrasonico Hc-sr04 Arduino Pic Raspberry1|Sensor de proximidad que activara el mecanismo del muñeco|2|$70.00|
+|Led|Se utiliza para iluminar el muñeco|3|$3.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Motor A Pasos 28byj-48 Con Driver Unl2003 Arduino|Motor a pasos, este movera la cabeza del muñeco|1|$70.00|
+|Servomotor Micro Sg90 |Servo motoro que movera el brazo del muñeco|1|$60.00|
+|Buzzer Ky-006 Zumbador Pasivo Modulo|Buzzer que emitira una musica navideña|1|$40.00|
+|Modulo Matriz Led Max7219 Para Arduino 4 Módulos Rojo|Modulo Matrix que mostrara un mensaje|1|$100.00|
 
+## Materiales a utilizar (Creacion del muñeco)
+
+
+|Nom Componente | Descripcion | Cantidad| Precio|
+|-|-|-|-|
+|Base de plastico|Base donde se colocara el muñeco|1|$15.00|
+|Bolas chinas|Funcionaran como el cuerpo y la cabeza del muñeco|2|$50.00|
+|Bolas de unicel|Simularan nieve |2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
+|Tira Led|Tira de foquitos leds|2|$16.00|
 
 
 
