@@ -65,14 +65,14 @@
 
 ## Prototipo en dibujo
 
-![Prototipo](https://github.com/ABOK451/Personaje-Navide-o/blob/main/dibujo.jpg)
+<img src="https://github.com/user-attachments/assets/08f983a5-4605-415f-acb1-27033e494bb7"/>
 
 
 ## Comunicacion
 La comunicación del usuario con el prototipo se realizará mediante una conexión inalámbrica a través del protocolo Wi-Fi. El ESP32 actuará como un servidor Wi-Fi, permitiendo que el usuario interactúe con el muñeco de nieve mediante una interfaz web. Los comandos enviados desde la interfaz web controlarán diversas funciones del personaje navideño, como cambiar la forma en que se muestran las luces, realizar un saludo, mostrar un mensaje, cambiar la tonada navideña y mover la cabeza del muñeco.
 
 ## Arquitectura 
-![](https://github.com/ABOK451/Personaje-Navide-o/blob/main/Imagen-de-Whats-App-2023-11-09-a-las-21-49-19-d4b6c808.jpg)
+<img src="https://github.com/user-attachments/assets/572ecf2a-7496-427e-9c6f-39efa4db82a3"/>
 
 
 
@@ -87,14 +87,22 @@ https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VI
 
 
 ## FOTOS DE ELABORACION 
-![](https://github.com/ABOK451/Personaje-Navide-o/blob/main/FOTOS_ELABORACION/6c06d3ff-5138-4d80-bb30-e7ed9f47cac8.jpg)
-![](https://github.com/ABOK451/Personaje-Navide-o/blob/main/FOTOS_ELABORACION/dbfdc08f-1d89-4905-bcf6-77d5526dd897.jpg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> 
+  <img src="https://github.com/user-attachments/assets/e2f53b93-2a36-44a9-b994-e9cf476ada86" alt="Imagen 1" style="width: 33%; height: 300px; object-fit: cover; border-radius: 8px;"> 
+  <img src="https://github.com/user-attachments/assets/81be7d51-57be-4f49-8efe-86b202cad4a0" alt="Imagen 2" style="width: 33%; height: 300px; object-fit: cover; border-radius: 8px;"> 
+  <img src="https://github.com/user-attachments/assets/930605e4-863d-400e-afb1-74bd63bbf1db" alt="Imagen 3" style="width: 33%; height: 300px; object-fit: cover; border-radius: 8px;"> 
+  <img src="https://github.com/user-attachments/assets/aac358ca-358d-4f91-a316-20afa47b332a" alt="Imagen 4" style="width: 33%; height: 300px; object-fit: cover; border-radius: 8px;"> 
+  <img src="https://github.com/user-attachments/assets/9bf143fc-a258-4d85-968e-25abb2550598" alt="Imagen 5" style="width: 33%; height: 300px; object-fit: cover; border-radius: 8px;"> 
+  <img src="https://github.com/user-attachments/assets/7f503e5c-7957-4c7c-8bc1-d20d1e3af157" alt="Imagen 6" style="width: 33%; height: 300px; object-fit: cover; border-radius: 8px;"> 
+  <img src="https://github.com/user-attachments/assets/4c759132-3f87-42f5-bd60-4a7e41f1adcb" alt="Imagen 7" style="width: 33%; height: 300px; object-fit: cover; border-radius: 8px;"> 
+</div>
+
+
+
 ## LINK CON CARPETA CON MAS FOTOS Y VIDEOS
 https://github.com/ABOK451/Personaje-Navide-o/tree/main/FOTOS_ELABORACION
 https://github.com/ABOK451/Personaje-Navide-o/tree/main/VIDEOS_ELABORACION
 ## LINK CODIGO 
 https://github.com/ABOK451/Personaje-Navide-o/tree/main/CODIGO
-## FLUJO DE NODE RED
-https://github.com/ABOK451/Personaje-Navide-o/tree/main/FLUJO%20NODO-RED
 
 ## NOTA PARA VER LOS VIDEOS ES NECESARIO DESCARGAR
