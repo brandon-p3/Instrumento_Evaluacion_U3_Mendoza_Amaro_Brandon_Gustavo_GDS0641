@@ -36,19 +36,15 @@
 |-|-|-|-|
 |Base de plastico|Base donde se colocara el muñeco|1|$15.00|
 |Bolas chinas|Funcionaran como el cuerpo y la cabeza del muñeco|2|$50.00|
-|Bolas de unicel|Simularan nieve |2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-|Tira Led|Tira de foquitos leds|2|$16.00|
-
-
+|Bolas de unicel|Simularan nieve y funcionaran como forraje del muñeco |2 paquetes|$16.00|
+|Hojas de color|Nariz del muñeco|1|$2.00|
+|Ojos locos|Ojos del muñeco|2|$5.00|
+|Silicon|Barras de silicon|15|$50.00|
+|Lenguetas|Funcionaran como los brazos del muñeco|1 paquetes|$20.00|
+|Cartulina negra|Hacer el sombrero del muñeco|1|$5.00|
+|Trozo de tela|Bufanda del muñeco|1|$0.00|
+|Fomi|Forrar los brazos del muñeco|4|$10.00|
+|Carton|Cuerpo interno del muñeco|2|$0.00|
 
 
 ## Software a Utilizar
