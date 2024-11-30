@@ -102,7 +102,7 @@ https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gu
 
 
 # LINK VIDEOS Y EJERCICIOS REALIZADOS EN CLASE
-
+https://drive.google.com/drive/folders/1NwvHqvySfX4l7kal_qeOEFrnmFDDOmEj?usp=sharing
 
 # Capturas de pantalla de los examenes de NetaCad:
 
