@@ -103,6 +103,6 @@ https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VI
 https://github.com/ABOK451/Personaje-Navide-o/tree/main/FOTOS_ELABORACION
 https://github.com/ABOK451/Personaje-Navide-o/tree/main/VIDEOS_ELABORACION
 ## LINK CODIGO 
-https://github.com/ABOK451/Personaje-Navide-o/tree/main/CODIGO
+https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gustavo_GDS0641/tree/e06de89bc9803ec0c3f5a43210e0ec5b72716cc7/SnowMan_C%C3%B3digo_Paython
 
 ## NOTA PARA VER LOS VIDEOS ES NECESARIO DESCARGAR
