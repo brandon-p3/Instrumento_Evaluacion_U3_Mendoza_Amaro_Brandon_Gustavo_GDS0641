@@ -83,10 +83,10 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 
 
 ## VIDEO EXPLICATIVO DEL FUNCIONAMIENTO 
-https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4
+https://www.youtube.com/watch?v=T313t-JLTUA
 
 ## TIKTOK
-https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4
+https://vm.tiktok.com/ZMk1CkqVS/
 
 ## FOTOS DE ELABORACION 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"> 
@@ -109,6 +109,9 @@ https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gu
 
 # LINK VIDEOS Y EJERCICIOS REALIZADOS EN CLASE
 https://drive.google.com/drive/folders/1NwvHqvySfX4l7kal_qeOEFrnmFDDOmEj?usp=sharing
+
+## Retroalimentacion.
+Compañero: Mirza Natzielly Morales Lezama
 
 # Capturas de pantalla de los examenes de NetaCad:
 
