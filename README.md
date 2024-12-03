@@ -78,7 +78,9 @@ La comunicación del usuario con el prototipo se realizará mediante una conexi�
 
 
 ## Flujo en node-red
-![Base de Datos](https://github.com/ABOK451/Personaje-Navide-o/blob/main/imagen_2023-09-30_194854915.png)
+<img src="https://github.com/user-attachments/assets/42147f2f-b121-4809-8b7b-cacafb367eb3"/>
+<img src="https://github.com/user-attachments/assets/817137f7-40e0-4945-9717-72e6aeb848f1"/>
+
 
 ## VIDEO EXPLICATIVO DEL FUNCIONAMIENTO 
 https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VID-20231205-WA0007.mp4
@@ -99,6 +101,10 @@ https://github.com/ABOK451/Personaje-Navide-o/blob/main/VIDEOS_FUNCIONAMIENTO/VI
 
 ## LINK CODIGO 
 https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gustavo_GDS0641/tree/e06de89bc9803ec0c3f5a43210e0ec5b72716cc7/SnowMan_C%C3%B3digo_Paython
+
+
+## LINK CODIGO NODE RED
+https://github.com/brandon-p3/Instrumento_Evaluacion_U3_Mendoza_Amaro_Brandon_Gustavo_GDS0641/blob/main/flows.json
 
 
 # LINK VIDEOS Y EJERCICIOS REALIZADOS EN CLASE
