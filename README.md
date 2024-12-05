@@ -112,6 +112,15 @@ https://drive.google.com/drive/folders/1NwvHqvySfX4l7kal_qeOEFrnmFDDOmEj?usp=sha
 
 ## Retroalimentacion.
 Compañero: Mirza Natzielly Morales Lezama
+Durante esta unidad hemos trabajado de buena manera, que comparacion a la unidad pasada esta vez si fue un poco mas estresante, ya que mi compañera aplazo muchas cosas al final.
+No medimos nuetsros tiempos correctamente, ya que trabajamos de una manera muy distinta, fue mas duro, incluso llegaron dias dond efueron 5 horas seguidas trabajando en eso.
+
+## Cosas a mejorar.
+1. Su cordinacion de tiempo.
+2. No dejar las cosas al final.
+3. Mejorar su integración con el equipo.
+4. Entender nuestras formas de trabajo para llegar a un punot meido.
+5. Tomar la iniciativa.
 
 # Capturas de pantalla de los examenes de NetaCad:
 
